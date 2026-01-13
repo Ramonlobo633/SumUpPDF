@@ -1,0 +1,7 @@
+__pycache__/
+.env
+.venv/
+dist/
+build/
+storage/*
+!storage/.gitkeep
